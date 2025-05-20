@@ -1,22 +1,19 @@
 # Personal-Finances-App
-Um app simples e funcional para controle de receitas e despesas. Desenvolvido com HTML, CSS e JavaScript, permite ao usuário registrar transações financeiras, visualizar o saldo atualizado em tempo real, e acompanhar os dados por meio de gráficos interativos. Todas as informações são armazenadas localmente no navegador.
+<p>Um app simples e funcional para controle de receitas e despesas. Desenvolvido com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, permite ao usuário registrar transações financeiras, visualizar o saldo atualizado em tempo real, e acompanhar os dados por meio de gráficos interativos. Todas as informações são armazenadas localmente no navegador.</p>
 
-🔧 Funcionalidades:
-Adição e remoção de transações (receita/despesa)
+<h3>🔧 Funcionalidades:</h3>
+<ul>
+  <li>Adição e remoção de transações (receita/despesa)</li>
+  <li>Cálculo automático de saldo total, entradas e saídas</li>
+  <li>Visualização de dados com gráfico (Chart.js)</li>
+  <li>Armazenamento persistente com localStorage</li>
+  <li>Interface responsiva e intuitiva</li>
+</ul>
 
-Cálculo automático de saldo total, entradas e saídas
-
-Visualização de dados com gráfico (Chart.js)
-
-Armazenamento persistente com localStorage (em desenvolvimento)
-
-Interface responsiva e intuitiva
-
-🚀 Tecnologias utilizadas:
-HTML5 + CSS3
-
-JavaScript (ES6+)
-
-Chart.js
-
-localStorage (em desenvolvimento)
+<h3>🚀 Tecnologias utilizadas:</h3>
+<ul>
+  <li>HTML5 + CSS3</li>
+  <li>JavaScript (ES6+)</li>
+  <li>Chart.js</li>
+  <li>localStorage</li>
+</ul>
