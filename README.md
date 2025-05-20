@@ -13,9 +13,14 @@
 <h3>🚀 Tecnologias utilizadas:</h3>
 <ul>
   <li>HTML5 + CSS3</li>
-  <li>JavaScript (ES6+)</li>
+  <li>JavaScript (ES6+)</li>https://github.com/leonardondornelles/Personal-Finances-App/blob/main/README.md
   <li>Chart.js</li>
   <li>localStorage</li>
 </ul>
 
 <h3>https://leonardondornelles.github.io/Personal-Finances-App/</h3>
+
+<h3>🚧 Em desenvolvimento:</h3>
+<ul>
+  <li><em>Remoção de transações da lista:</em> em breve será possível excluir transações individuais para ter um controle ainda mais preciso das finanças.</li>
+</ul>
